@@ -6,5 +6,9 @@ package com.example.Test;
 public class Test {
     public static void main(String[] args) {
         System.out.printf("----------------");
+        System.out.printf("----------------");
+        System.out.printf("----------------");
+        System.out.printf("----------------");
+        System.out.printf("----------------");
     }
 }
